@@ -1,6 +1,7 @@
 <div class="comments">
   {{#each this}}
 
+  {{!-- take this html and render it dynamically to the page --}}
   <section class="comment border-bottom border-2 border-light mt-3 pb-3">
     <div class="meta">
       @{{user.username}} ∙ <span class='fst-italic fw-light fs-7'>{{format_date created_at}}</span>

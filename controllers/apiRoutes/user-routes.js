@@ -22,7 +22,7 @@ router.post('/login', (req, res) => {
     
     User.findOne({
         where: {
-            //email: req.body.email
+            
             username: req.body.username
         }
     })
