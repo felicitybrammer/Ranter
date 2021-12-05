@@ -1,15 +1,27 @@
-# Ranter
+# Ranter 
 
-Ranter is a blog post website where you can rant to your heart's desire. Our inspiration came from Twitter, where you can post or "tweet" short messages (in our case, "rant") and others can reply to it on a thread. 
+## Description
+
+Ranter is a the first iteration of a blog post website, primarily modelled on Twitter functionality, to demonstrate our skills in building a full-stack application and following the Model-View-Controller structure. Ranter allows you to create a user profile, to follow other users, to add posts and comments, and to like others' posts and comments too.
+
+To use Ranter, you'll need to create a user account first. To add other users' posts to your feed, you will need to search by username. 
+
 
 ## Technologies Used
 
-- HTML, CSS, JS
-- Handlebars
-- SQL, sequelize
-- Express.js
-- Node.js
-- Bootstrap
+* Node.js
+* Express.js
+* Handlebars
+* Sequelize, MySQL
+* JavaScript
+* HTML, CSS
+* Bootstrap
+* Deployed on Heroku
+
+## Deployed Application
+
+https://ranter2-0.herokuapp.com/login
+
 
 ## Screenshots
 
