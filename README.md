@@ -2,8 +2,7 @@
 
 ## Description
 
-Ranter is a the first iteration of a blog post website, primarily modelled on Twitter functionality, to demonstrate our skills in building a full-stack application and following the Model-View-Controller structure. Ranter allows you to create a user profile, to follow other users, to add posts and comments, and to like others' posts and comments too.
-
+Ranter is a full-stack social media API built using a SQL database and following the Model-View-Controller paradigm. Ranter allows you to create a user profile, to follow other users, to add posts and comments, and to like others' posts and comments too.
 To use Ranter, you'll need to create a user account first. To add other users' posts to your feed, you will need to search by username. 
 
 
