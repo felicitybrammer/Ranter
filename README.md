@@ -19,7 +19,7 @@ To use Ranter, you'll need to create a user account first. To add other users' p
 
 ## Deployed Application
 
-https://ranter2-0.herokuapp.com/login
+
 
 
 ## Screenshots
