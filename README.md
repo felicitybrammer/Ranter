@@ -38,9 +38,11 @@ https://polar-sands-74505.herokuapp.com/login
 
 ## Screenshots
 
-![Login page:](public/assets/images/login-page.PNG)
+![example feed page](public/assets/images/social-feed.png)
 
-![Add a Rant:](public/assets/images/screenshot-rant.PNG)
+![example follow user](public/assets/images/social-follow.png)
+
+![example login page](public/assets/images/social-login.png)
 
 ## Contributions
 
